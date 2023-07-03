@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}	
+input{
+	border:1px solid lightgray;
+	padding:5px 5px;
+	outline:none;
+	width:100%;
+	border-radius:5px;
+	background-color:#ebe8e859;
+	}
+select{
+		/* width:30%; */
+	}
+.tree{
+			margin-top:15px;
+}		
+.fa{
+	margin-left:5px;
+	font-size:15px!important;
+}
+.rio a{
+	background-color:limegreen;
+	color:white;
+	display:inline-block;
+	width:30%!important;
+	height:40px!important;
+	line-height:40px!important;
+	border-radius:5px;
+}
